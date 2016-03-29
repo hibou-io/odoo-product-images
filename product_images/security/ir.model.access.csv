@@ -1,0 +1,2 @@
+"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
+"product_images_product_image_public","product.image.public","product_images.model_product_image",,1,0,0,0
