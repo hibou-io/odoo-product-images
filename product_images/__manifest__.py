@@ -8,9 +8,9 @@
     'author': 'Hibou Corp. <hello@hibou.io>',
     'license': 'AGPL-3',
     'data': [
-        'security/ir.model.access.csv',
-        'views/product_images.xml',
-        'views/website_product_images.xml',
+        #'security/ir.model.access.csv',
+        #'views/product_images.xml',
+        #'views/website_product_images.xml',
     ],
     'category': 'Product',
     'depends': [
